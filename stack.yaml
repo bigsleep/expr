@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+- extensible-0.3.5
+resolver: lts-3.2
